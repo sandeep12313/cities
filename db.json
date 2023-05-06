@@ -1,0 +1,42 @@
+{"population": [  {
+  "city":"Tokyo",
+  "Rank":"1",
+  "Country": "Japan",
+  "Population": "37 million",
+  "Growth_Rate": "9.7%"
+},
+{
+"city":"Delhi",
+"Rank":"2",
+"Country": "India",
+"Population": "32 million",
+"Growth_Rate": "9.5%"
+},
+{
+  "city":"Shanghai",
+  "Rank":"3",
+  "Country": "China",
+  "Population": "28 million",
+  "Growth_Rate": "8.5%"
+},
+{
+  "city":"Sao Paulo",
+  "Rank":"4",
+  "Country": "Brazil",
+  "Population": "25 million",
+  "Growth_Rate": "7.0%"
+},
+{
+  "city":"Mexico City",
+  "Rank":"5",
+  "Country": "Mexico",
+  "Population": "20 Million",
+  "Growth_Rate": "5.0%"
+},
+{
+  "city":"Cairo",
+  "Rank":"6",
+  "Country": "Egypt",
+  "Population": " 15 million",
+  "Growth_Rate": "4.9%"
+}]}
